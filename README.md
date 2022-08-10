@@ -1,7 +1,7 @@
 ### Hey guys 👋
 
-- 🔭 I’m currently working on data engineering
-- 🌱 I’m currently learning spark/pyspark and docker
+- 🔭 I’m working on data engineering
+- 🌱 I’m studying kubernetes and multicloud (aws and azure)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm a anthropologist and love poetry
 
